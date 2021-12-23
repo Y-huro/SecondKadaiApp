@@ -13,6 +13,7 @@
 		19491C4A27746500004F6226 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 19491C4827746500004F6226 /* Main.storyboard */; };
 		19491C4C27746501004F6226 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 19491C4B27746501004F6226 /* Assets.xcassets */; };
 		19491C4F27746501004F6226 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 19491C4D27746501004F6226 /* LaunchScreen.storyboard */; };
+		19491C57277465EF004F6226 /* NameResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19491C56277465EF004F6226 /* NameResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		19491C4B27746501004F6226 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		19491C4E27746501004F6226 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		19491C5027746501004F6226 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		19491C56277465EF004F6226 /* NameResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NameResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				19491C4227746500004F6226 /* AppDelegate.swift */,
 				19491C4427746500004F6226 /* SceneDelegate.swift */,
 				19491C4627746500004F6226 /* ViewController.swift */,
+				19491C56277465EF004F6226 /* NameResultViewController.swift */,
 				19491C4827746500004F6226 /* Main.storyboard */,
 				19491C4B27746501004F6226 /* Assets.xcassets */,
 				19491C4D27746501004F6226 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				19491C57277465EF004F6226 /* NameResultViewController.swift in Sources */,
 				19491C4727746500004F6226 /* ViewController.swift in Sources */,
 				19491C4327746500004F6226 /* AppDelegate.swift in Sources */,
 				19491C4527746500004F6226 /* SceneDelegate.swift in Sources */,
